@@ -1,0 +1,1 @@
+﻿Compress-Archive -Path $env:TEMP -DestinationPath $env:TEMP\staged.zip -Force
